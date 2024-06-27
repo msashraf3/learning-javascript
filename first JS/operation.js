@@ -1,0 +1,12 @@
+var phonePrice=500;
+var carPrice=100000;
+var totalPrice=phonePrice+carPrice;
+console.log(carPrice);
+console.log(phonePrice);
+console.log(phonePrice+carPrice);
+console.log(totalPrice);
+var phoneNumber=2;
+var totalPhone=phonePrice*phoneNumber;
+var totalPhoneDivided=phonePrice/phoneNumber;
+console.log(totalPhone);
+console.log(totalPhoneDivided);
